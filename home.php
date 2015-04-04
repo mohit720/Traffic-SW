@@ -3,11 +3,13 @@ session_start();
 include('project_const.php');
 ?>
 <html>
+
+<title> New Demo of GIT hub </title> 
+
 <head lang="en">
 <link href="bootstrap-3.3.4-dist/css/bootstrap.min.css" rel="stylesheet">
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
   <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
-
     <meta charset="UTF-8">
     <title>Visitor Home Page </title>
 </head>
